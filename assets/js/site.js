@@ -92,6 +92,7 @@
         "</div>" +
         '<div class="footer-bottom">' +
           "<span>© " + new Date().getFullYear() + " Exploring Digital. All rights reserved. Strategy and the engine to run it.</span>" +
+          "<span>This site uses Google Analytics to understand how visitors use it.</span>" +
           '<span><a href="#">Privacy Policy</a> · <a href="#">Terms of Engagement</a></span>' +
         "</div>" +
       "</div>"
