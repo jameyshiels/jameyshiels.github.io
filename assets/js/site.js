@@ -7,7 +7,7 @@
 (function () {
   "use strict";
 
-  var CONTACT_EMAIL = "jamey.shiels@exploringdigital.com";
+  var CONTACT_EMAIL = "jamey@exploringdigital.com";
 
   /* ---- small SVG icons ---- */
   var icons = {
